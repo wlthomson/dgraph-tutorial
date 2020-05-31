@@ -1,0 +1,15 @@
+{
+    "set": [
+        {
+            "name": "Balaji",
+            "age": 23,
+            "country": "India"
+        },
+        {
+            "name": "Daniel",
+            "age": 25,
+            "city": "San Diego"
+        }
+    ]
+}
+  
