@@ -1,0 +1,5 @@
+{
+    search_tweet(func: alloftext(tweet, "graph data and analyze it in graphdb")) {
+        tweet
+    }
+}

@@ -1,0 +1,5 @@
+{
+    reg_search(func: regexp(hashtag, /^.*graph.*$/i)) {
+        hashtag
+    }
+}
