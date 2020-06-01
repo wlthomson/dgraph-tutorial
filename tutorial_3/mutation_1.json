@@ -1,0 +1,126 @@
+{
+    "set": [
+        {
+            "author_name": "John Campbell",
+            "rating": 4.1,
+            "published": [
+                {
+                    "title": "Dgraph's recap of GraphQL Conf - Berlin 2019",
+                    "url": "https://blog.dgraph.io/post/graphql-conf-19/",
+                    "content": "We took part in the recently held GraphQL conference in Berlin. The experience was fascinating, and we were amazed by the high voltage enthusiasm in the GraphQL community. Now, we couldn’t help ourselves from sharing this with Dgraph’s community! This is the story of the GraphQL conference in Berlin.",
+                    "likes": 100,
+                    "dislikes": 4,
+                    "publish_time": "2018-06-25T02:30:00",
+                    "tagged": [
+                        {
+                            "uid": "_:graphql",
+                            "tag_name": "graphql"
+                        },
+                        {
+                            "uid": "_:devrel",
+                            "tag_name": "devrel"
+                        }
+                    ]
+                },
+                {
+                    "title": "Dgraph Labs wants you!",
+                    "url": "https://blog.dgraph.io/post/hiring-19/",
+                    "content": "We recently announced our successful Series A fundraise and, since then, many people have shown interest to join our team. We are very grateful to have so many people interested in joining our team! We also realized that the job openings were neither really up to date nor covered all of the roles that we are looking for. This is why we decided to spend some time rewriting them and the result is these six new job openings!.",
+                    "likes": 60,
+                    "dislikes": 2,
+                    "publish_time": "2018-08-25T03:45:00",
+                    "tagged": [
+                        {
+                            "uid": "_:hiring",
+                            "tag_name": "hiring"
+                        },
+                        {
+                            "uid": "_:careers",
+                            "tag_name": "careers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "author_name": "John Travis",
+            "rating": 4.5,
+            "published": [
+                {
+                    "title": "How Dgraph Labs Raised Series A",
+                    "url": "https://blog.dgraph.io/post/how-dgraph-labs-raised-series-a/",
+                    "content": "I’m really excited to announce that Dgraph has raised $11.5M in Series A funding. This round is led by Redpoint Ventures, with investment from our previous lead, Bain Capital Ventures, and participation from all our existing investors – Blackbird, Grok and AirTree. With this round, Satish Dharmaraj joins Dgraph’s board of directors, which includes Salil Deshpande from Bain and myself. Their guidance is exactly what we need as we transition from building a product to bringing it to market. So, thanks to all our investors!.",
+                    "likes": 139,
+                    "dislikes": 6,
+                    "publish_time": "2019-07-11T01:45:00",
+                    "tagged": [
+                        {
+                            "uid": "_:annoucement",
+                            "tag_name": "annoucement"
+                        },
+                        {
+                            "uid": "_:funding",
+                            "tag_name": "funding"
+                        }
+                    ]
+                },
+                {
+                    "title": "Celebrating 10,000 GitHub Stars",
+                    "url": "https://blog.dgraph.io/post/10k-github-stars/",
+                    "content": "Dgraph is celebrating the milestone of reaching 10,000 GitHub stars 🎉. This wouldn’t have happened without all of you, so we want to thank the awesome community for being with us all the way along. This milestone comes at an exciting time for Dgraph.",
+                    "likes": 33,
+                    "dislikes": 12,
+                    "publish_time": "2017-03-11T01:45:00",
+                    "tagged": [
+                        {
+                            "uid": "_:devrel"
+                        },
+                        {
+                            "uid": "_:annoucement"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "author_name": "Katie Perry",
+            "rating": 3.9,
+            "published": [
+                {
+                    "title": "Migrating data from SQL to Dgraph!",
+                    "url": "https://blog.dgraph.io/post/migrating-from-sql-to-dgraph/",
+                    "content": "Dgraph is rapidly gaining reputation as an easy to use database to build apps upon. Many new users of Dgraph have existing relational databases that they want to migrate from. In particular, we get asked a lot about how to migrate data from MySQL to Dgraph. In this article, we present a tool that makes this migration really easy: all a user needs to do is write a small 3 lines configuration file and type in 2 commands. In essence, this tool bridges one of the best technologies of the 20th century with one of the best ones of the 21st (if you ask us).",
+                    "likes": 20,
+                    "dislikes": 1,
+                    "publish_time": "2018-08-25T01:44:00",
+                    "tagged": [
+                        {
+                            "uid": "_:tutorial",
+                            "tag_name": "tutorial"
+                        }
+                    ]
+                },
+                {
+                    "title": "Building a To-Do List React App with Dgraph",
+                    "url": "https://blog.dgraph.io/post/building-todo-list-react-dgraph/",
+                    "content": "In this tutorial we will build a To-Do List application using React JavaScript library and Dgraph as a backend database. We will use dgraph-js-http — a library designed to greatly simplify the life of JavaScript developers when accessing Dgraph databases.",
+                    "likes": 97,
+                    "dislikes": 5,
+                    "publish_time": "2019-02-11T03:33:00",
+                    "tagged": [
+                        {
+                            "uid": "_:tutorial"
+                        },
+                        {
+                            "uid": "_:devrel"
+                        },
+                        {
+                            "uid": "_:javascript",
+                            "tag_name": "javascript"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

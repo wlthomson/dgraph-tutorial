@@ -1,0 +1,7 @@
+{
+  authors_and_ratings(func: has(author_name)) {
+    uid
+    author_name
+    rating
+  }
+}

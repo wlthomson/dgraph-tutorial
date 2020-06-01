@@ -1,0 +1,13 @@
+<author_name>: string .
+<content>: string .
+<dgraph.graphql.schema>: string .
+<dislikes>: int @index(int) .
+<likes>: int .
+<name>: string @index(fulltext, term, trigram) @lang .
+<publish_time>: string .
+<published>: [uid] .
+<rating>: float @index(float) .
+<tag_name>: string @index(hash) .
+<tagged>: [uid] @reverse .
+<title>: string .
+<url>: string .

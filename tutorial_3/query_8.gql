@@ -1,0 +1,14 @@
+{
+  devrel_tag(func: eq(tag_name,"devrel")) {
+    tag_name
+
+    ~tagged {
+      title
+      content
+
+      ~published {
+        author_name
+      }
+    }
+  }
+}

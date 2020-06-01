@@ -1,0 +1,5 @@
+{
+  all_tags(func: has(tag_name)) {
+    tag_name
+  }
+}

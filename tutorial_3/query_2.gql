@@ -1,0 +1,7 @@
+{
+  best_authors(func: ge(rating, 4.0)) {
+    uid
+    author_name
+    rating
+  }
+}
