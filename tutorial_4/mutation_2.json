@@ -1,0 +1,19 @@
+{
+    "set": [
+        {
+            "food_name": "Sushi",
+            "review": [
+                {
+                    "comment": "Tastes very good",
+                    "comment@jp": "とても美味しい",
+                    "comment@ru": "очень вкусно"
+                }
+            ],
+            "origin": [
+                {
+                    "country": "Japan"
+                }
+            ]
+        }
+    ]
+}

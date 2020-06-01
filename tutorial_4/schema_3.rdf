@@ -1,0 +1,6 @@
+<comment>: string @lang .
+<country>: string .
+<dgraph.graphql.schema>: string .
+<food_name>: string @index(hash) .
+<origin>: [uid] .
+<review>: [uid].

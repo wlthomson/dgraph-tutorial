@@ -1,0 +1,8 @@
+{
+  food_review(func: eq(food_name,"Sushi")) {
+    food_name
+    review {
+      comment@ru
+    }
+  }
+}
