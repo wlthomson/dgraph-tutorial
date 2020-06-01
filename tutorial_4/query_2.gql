@@ -1,8 +1,8 @@
 {
-  food_review(func: has(food_name)) {
-    food_name
-      review {
-        comment
-      }
-  }
+    food_review(func: has(food_name)) {
+        food_name
+        review {
+            comment
+        }
+    }
 }

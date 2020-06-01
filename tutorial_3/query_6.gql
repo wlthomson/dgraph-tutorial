@@ -1,5 +1,5 @@
 {
-  devrel_tag(func: eq(tag_name,"devrel")) {
-    tag_name
-  }
+    devrel_tag(func: eq(tag_name,"devrel")) {
+        tag_name
+    }
 }

@@ -1,15 +1,13 @@
 {
-  authors_and_ratings(func: ge(rating, 4.0)) {
-    author_name
-    rating
-
-    published @filter(lt(dislikes, 10)) {
-      title
-      likes
-      dislikes
-      tagged {
-        tag_name
-      }
+    authors_and_ratings(func: ge(rating, 4.0)) {
+        author_name
+        published @filter(lt(dislikes, 10)) {
+            title
+            likes
+            dislikes
+            tagged {
+                tag_name
+            }
+        }
     }
-  }
 }

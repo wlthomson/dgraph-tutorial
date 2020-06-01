@@ -1,10 +1,10 @@
 {
     find_follower(func: uid(0xf)){
-        name 
+        name
         age
         follows {
-          name 
-          age 
+          	name
+         	age
         }
     }
 }

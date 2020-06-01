@@ -1,12 +1,12 @@
 {
-  authors_and_ratings(func: ge(rating, 4.0)) {
-    uid
-    author_name
-    rating
-    published {
-      title
-      content
-      dislikes
+    authors_and_ratings(func: ge(rating, 4.0)) {
+        uid
+        author_name
+        rating
+        published {
+            title
+            content
+            dislikes
+        }
     }
-  }
 }

@@ -1,5 +1,5 @@
 {
-    delete {
-      <0xf> <age> * .
+	delete {
+		<0xf> <age> * .
     }
 }

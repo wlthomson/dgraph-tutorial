@@ -1,8 +1,8 @@
 {
-  food_review(func: eq(food_name,"Sushi")) {
-    food_name
-      review {
-        comment
-      }
-  }
+    food_review(func: eq(food_name,"Sushi")) {
+        food_name
+        review {
+            comment
+        }
+    }
 }

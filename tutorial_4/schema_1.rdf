@@ -1,6 +1,5 @@
 <comment>: string .
 <country>: string .
-<dgraph.graphql.schema>: string .
 <food_name>: string .
 <origin>: [uid] .
 <review>: [uid].

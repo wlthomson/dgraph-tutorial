@@ -1,10 +1,9 @@
 {
-  devrel_tag(func: eq(tag_name,"devrel")) {
-    tag_name
-
-    ~tagged {
-      title
-      content
+    devrel_tag(func: eq(tag_name,"devrel")) {
+        tag_name
+        ~tagged {
+            title
+            content
+        }
     }
-  }
 }
