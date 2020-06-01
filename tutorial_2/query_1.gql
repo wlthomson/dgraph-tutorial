@@ -1,0 +1,7 @@
+{
+    people(func: has(name)) {
+        uid
+        name
+        age
+    }
+}

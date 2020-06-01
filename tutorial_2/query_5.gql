@@ -1,0 +1,14 @@
+{
+  find_follower(func: uid(0xf)) {
+    name 
+    age 
+    follows {
+      name
+      age
+      follows {
+        name 
+        age
+      }
+    }
+  }
+}

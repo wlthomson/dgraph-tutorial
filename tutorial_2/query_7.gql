@@ -1,0 +1,7 @@
+{
+  find_follower(func: uid(0xf)) @recurse(depth: 4) {
+    name 
+    age
+    follows
+  }
+}

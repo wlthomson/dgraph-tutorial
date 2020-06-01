@@ -1,0 +1,8 @@
+{
+    find_using_uid(func: uid(0xf)) {
+        uid
+        name
+        age
+        country
+    }
+}
