@@ -1,0 +1,11 @@
+{
+    tweet_graph(func: has(user_handle)) {
+        user_name
+        authored {
+            tweet
+            tagged_with {
+                hashtag
+            }
+        }
+    }
+}

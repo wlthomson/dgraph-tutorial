@@ -1,0 +1,5 @@
+{
+    using_greater_than(func: gt(user_handle, "dgraphlabs")) {
+        user_handle
+    }
+}

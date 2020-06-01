@@ -1,0 +1,14 @@
+{
+    tweet_graph(func: eq(user_handle, "hackintoshrao")) {
+        user_name
+        authored {
+            tweet
+            tagged_with {
+                hashtag
+            }
+            mentioned {
+                user_name
+            }
+        }
+  }
+}

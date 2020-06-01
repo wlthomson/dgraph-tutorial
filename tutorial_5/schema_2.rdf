@@ -1,0 +1,7 @@
+<authored>: [uid] .
+<hashtag>: string .
+<mentioned>: [uid] .
+<tagged_with>: [uid] .
+<tweet>: string .
+<user_handle>: string @index(hash) .
+<user_name>: string .

@@ -1,0 +1,5 @@
+{
+    find_tweets(func: allofterms(tweet, "Graphdb GraphQL")) {
+        tweet
+    }
+}

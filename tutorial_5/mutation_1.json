@@ -1,0 +1,95 @@
+{
+    "set": [
+        {
+            "user_handle": "hackintoshrao",
+            "user_name": "Karthic Rao",
+            "uid": "_:hackintoshrao",
+            "authored": [
+                {
+                    "tweet": "Test tweet for the fifth episode of getting started series with @dgraphlabs. Wait for the video of the fourth one by @francesc the coming Wednesday!\n#GraphDB #GraphQL",
+                    "tagged_with": [
+                        {
+                            "uid": "_:graphql",
+                            "hashtag": "GraphQL"
+                        },
+                        {
+                            "uid": "_:graphdb",
+                            "hashtag": "GraphDB"
+                        }
+                    ],
+                    "mentioned": [
+                        {
+                            "uid": "_:francesc"
+                        },
+                        {
+                            "uid": "_:dgraphlabs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user_handle": "francesc",
+            "user_name": "Francesc Campoy",
+            "uid": "_:francesc",
+            "authored": [
+                {
+                    "tweet": "So many good talks at #graphqlconf, next year I'll make sure to be *at least* in the audience!\nAlso huge thanks to the live tweeting by @dgraphlabs for alleviating the FOMO😊\n#GraphDB ♥️ #GraphQL",
+                    "tagged_with": [
+                        {
+                            "uid": "_:graphql"
+                        },
+                        {
+                            "uid": "_:graphdb"
+                        },
+                        {
+                            "hashtag": "graphqlconf"
+                        }
+                    ],
+                    "mentioned": [
+                        {
+                            "uid": "_:dgraphlabs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user_handle": "dgraphlabs",
+            "user_name": "Dgraph Labs",
+            "uid": "_:dgraphlabs",
+            "authored": [
+                {
+                    "tweet": "Let's Go and catch @francesc at @Gopherpalooza today, as he scans into Go source code by building its Graph in Dgraph!\nBe there, as he Goes through analyzing Go source code, using a Go program, that stores data in the GraphDB built in Go!\n#golang #GraphDB #Databases #Dgraph ",
+                    "tagged_with": [
+                        {
+                            "hashtag": "golang"
+                        },
+                        {
+                            "uid": "_:graphdb"
+                        },
+                        {
+                            "hashtag": "Databases"
+                        },
+                        {
+                            "hashtag": "Dgraph"
+                        }
+                    ],
+                    "mentioned": [
+                        {
+                            "uid": "_:francesc"
+                        },
+                        {
+                            "uid": "_:dgraphlabs"
+                        }
+                    ]
+                },
+                {
+                    "uid": "_:gopherpalooza",
+                    "user_handle": "gopherpalooza",
+                    "user_name": "Gopherpalooza"
+                }
+            ]
+        }
+    ]
+}

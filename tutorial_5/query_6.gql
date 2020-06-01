@@ -1,0 +1,5 @@
+{
+    find_tweets(func: anyofterms(tweet, "Go Graph")) {
+        tweet
+    }
+}

@@ -1,0 +1,5 @@
+{
+    tweet_graph(func: has(user_handle)) {
+        user_handle
+    }
+}
