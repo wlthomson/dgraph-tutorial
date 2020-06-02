@@ -1,0 +1,5 @@
+{
+    names(func: has(user_name)) {
+        user_name
+    }
+}
