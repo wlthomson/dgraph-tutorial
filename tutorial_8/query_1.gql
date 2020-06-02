@@ -1,0 +1,11 @@
+{
+    entire_graph(func: has(city)) {
+        city
+        has_location {
+            name
+            has_type {
+                loc_type
+            }
+        }
+    }
+}

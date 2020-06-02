@@ -1,0 +1,9 @@
+{
+    find_hotel(func: near(location, [-122.479784,37.82883295],7000)) @cascade @filter(le(price_per_night, 300)){
+        name
+        price_per_night
+        has_type @filter(eq(loc_type,"Hotel")){
+            loc_type
+        }
+    }
+}

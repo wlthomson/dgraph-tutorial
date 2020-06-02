@@ -1,0 +1,8 @@
+<city>: string .
+<has_location>: [uid] .
+<has_type>: [uid] .
+<loc_type>: string @index(hash) .
+<location>: geo @index(geo) .
+<name>: string .
+<price_per_night>: int .
+<street>: string .

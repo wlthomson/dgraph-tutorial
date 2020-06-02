@@ -1,0 +1,8 @@
+{
+    find_hotel(func: near(location, [-122.479784,37.82883295],7000) )  {
+        name
+        has_type {
+            loc_type
+        }
+    }
+}
